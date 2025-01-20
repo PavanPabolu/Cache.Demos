@@ -1,4 +1,5 @@
 
+
 a.Cache Tag Helper:
 https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/cache-tag-helper?view=aspnetcore-5.0
 
@@ -12,7 +13,7 @@ d.ResponseCache:
 https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-5.0#responsecache-attribute
 
 
-
+**************************************************************************************************
 PM>
 Scaffold-DbContext -Connection "Server=localhost\\SQLEXPRESS; Database=AdventureWorksLT2022; Trusted_Connection=True; MultipleActiveResultSets=true;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Models" -ContextDir "Data" -Context "AdventureWorksDbContext" -Tables "Product"
 
@@ -23,3 +24,4 @@ Sol:
 * Scaffold-DbContext ...
 -Error: To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration
 * Scaffold-DbContext "Name=DefaultConnection" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir "Models" -ContextDir "Data" -Context "AdventureWorksDbContext" -Tables "Product"
+**************************************************************************************************

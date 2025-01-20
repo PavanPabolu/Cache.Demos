@@ -1,0 +1,6 @@
+@Cache.Distributed.Redis.WebAPI_HostAddress = http://localhost:5105
+
+GET {{Cache.Distributed.Redis.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

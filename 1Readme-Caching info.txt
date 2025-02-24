@@ -1,4 +1,9 @@
 
+A Step by Step Guide to In-Memory Caching in ASP.NET Core
+https://www.ezzylearning.net/tutorial/a-step-by-step-guide-to-in-memory-caching-in-asp-net-core
+
+Distributed Caching in ASP.NET Core using Redis Cache
+https://www.ezzylearning.net/tutorial/distributed-caching-in-asp-net-core-using-redis-cache
 
 a.Cache Tag Helper:
 https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/built-in/cache-tag-helper?view=aspnetcore-5.0
@@ -12,6 +17,8 @@ https://docs.microsoft.com/en-us/aspnet/core/performance/caching/middleware?view
 d.ResponseCache:
 https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-5.0#responsecache-attribute
 
+Distributed caching in ASP.NET Core
+https://learn.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-8.0&source=docs
 
 **************************************************************************************************
 PM>
